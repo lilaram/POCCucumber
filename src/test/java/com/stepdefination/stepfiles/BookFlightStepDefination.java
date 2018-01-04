@@ -19,8 +19,6 @@ public class BookFlightStepDefination extends TestBase{
 	    driver.manage().timeouts().implicitlyWait(2000,TimeUnit.SECONDS);
 		spgobj=new SelectFlightPage();
 		spgobj.reserveflightbutton();
-		
-		
 	}
 	
 	@Then("^Book  flight page display with summary and passenger details label\\.$")

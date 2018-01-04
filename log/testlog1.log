@@ -1,89 +1,14 @@
-2018-01-03 22:54:10,157 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 22:54:30,928 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 22:54:52,874 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 22:54:52,876 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - flight finder page is display
-2018-01-03 22:55:06,672 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - opening the mercury tour site
-2018-01-03 22:55:06,815 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - user name and password has entered
-2018-01-03 22:55:11,769 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - clicked submit button
-2018-01-03 22:55:11,941 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login successful or not checked
-2018-01-03 22:55:12,139 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - browser has closed
-2018-01-03 22:55:43,286 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:01:42,253 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:02:05,202 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:02:35,256 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:02:35,258 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - flight finder page is display
-2018-01-03 23:03:08,208 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - opening the mercury tour site
-2018-01-03 23:03:08,412 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - user name and password has entered
-2018-01-03 23:03:13,542 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - clicked submit button
-2018-01-03 23:03:13,631 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login successful or not checked
-2018-01-03 23:03:13,633 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - closing the browser
-2018-01-03 23:04:30,255 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:28:35,354 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:28:59,301 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:29:27,535 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:29:27,540 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - flight finder page is display
-2018-01-03 23:29:44,003 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - opening the mercury tour site
-2018-01-03 23:29:44,248 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - user name and password has entered
-2018-01-03 23:29:49,618 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - clicked submit button
-2018-01-03 23:29:49,787 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login successful or not checked
-2018-01-03 23:29:49,958 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - closing the browser
-2018-01-03 23:30:38,558 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:33:01,813 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:33:19,443 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:33:41,767 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:33:41,769 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - flight finder page is display
-2018-01-03 23:33:56,332 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - opening the mercury tour site
-2018-01-03 23:33:56,463 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - user name and password has entered
-2018-01-03 23:34:01,538 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - clicked submit button
-2018-01-03 23:34:01,614 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login successful or not checked
-2018-01-03 23:34:01,761 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - closing the browser
-2018-01-03 23:34:39,398 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:38:10,193 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:38:33,520 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:38:54,991 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:38:55,002 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - flight finder page is display
-2018-01-03 23:39:06,736 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - opening the mercury tour site
-2018-01-03 23:39:06,855 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - user name and password has entered
-2018-01-03 23:39:10,910 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - clicked submit button
-2018-01-03 23:39:11,003 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login successful or not checked
-2018-01-03 23:39:11,132 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - closing the browser
-2018-01-03 23:40:01,025 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:53:04,404 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:53:32,798 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:54:03,461 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-03 23:54:03,463 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - flight finder page is display
-2018-01-03 23:54:26,032 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - opening the mercury tour site
-2018-01-03 23:54:26,203 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - user name and password has entered
-2018-01-03 23:54:32,249 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - clicked submit button
-2018-01-03 23:54:32,855 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login successful or not checked
-2018-01-03 23:54:32,956 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - closing the browser
-2018-01-04 09:15:55,191 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-04 09:16:17,790 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-04 09:16:40,850 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-04 09:16:40,852 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - flight finder page is display
-2018-01-04 09:16:56,867 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - opening the mercury tour site
-2018-01-04 09:16:57,026 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - user name and password has entered
-2018-01-04 09:17:01,872 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - clicked submit button
-2018-01-04 09:17:01,939 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login successful or not checked
-2018-01-04 09:17:02,088 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - closing the browser
-2018-01-04 09:17:42,292 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-04 09:28:58,549 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-04 09:29:20,099 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-04 09:29:44,168 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-04 09:29:44,171 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - flight finder page is display
-2018-01-04 09:29:58,765 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - opening the mercury tour site
-2018-01-04 09:29:58,893 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - user name and password has entered
-2018-01-04 09:30:03,726 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - clicked submit button
-2018-01-04 09:30:03,792 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login successful or not checked
-2018-01-04 09:30:03,934 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - closing the browser
-2018-01-04 09:30:46,539 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-04 09:32:51,202 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-04 09:33:15,560 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-04 09:33:39,349 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
-2018-01-04 09:33:39,355 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - flight finder page is display
-2018-01-04 09:34:00,004 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - opening the mercury tour site
-2018-01-04 09:34:00,143 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - user name and password has entered
-2018-01-04 09:34:05,055 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - clicked submit button
-2018-01-04 09:34:05,119 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login successful or not checked
-2018-01-04 09:34:05,257 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - closing the browser
-2018-01-04 09:34:58,226 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login sucessull for flight find scenario
+2018-01-04 23:52:27,655 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - opening the mercury tour site
+2018-01-04 23:52:28,079 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - user name and password has entered
+2018-01-04 23:52:32,830 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - clicked submit button
+2018-01-04 23:52:32,904 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login successful or not checked
+2018-01-04 23:52:33,038 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - closing the browser
+2018-01-04 23:56:33,133 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - closing the browser
+2018-01-04 23:56:56,095 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - closing the browser
+2018-01-04 23:57:15,830 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - closing the browser
+2018-01-04 23:57:31,808 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - opening the mercury tour site
+2018-01-04 23:57:31,969 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - user name and password has entered
+2018-01-04 23:57:36,557 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - clicked submit button
+2018-01-04 23:57:36,636 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - login successful or not checked
+2018-01-04 23:57:36,805 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - closing the browser
+2018-01-04 23:58:34,893 [main] INFO com.stepdefination.stepfiles.LoginStepDefination - closing the browser

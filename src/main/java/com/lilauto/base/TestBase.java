@@ -6,10 +6,13 @@ import java.io.IOException;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 import com.lilauto.util.Constants;
+import com.stepdefination.stepfiles.LoginStepDefination;
 
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
@@ -18,10 +21,12 @@ public class TestBase {
 
 	public static Properties config;
 	public static WebDriver driver;
-
+    public static Logger logger;
 	public static void initBrowser() {
+		logger = Logger.getLogger(LoginStepDefination.class);
+		   PropertyConfigurator.configure("log4j.properties");
 		initconfig();
-		driver = null;
+		//driver=null;
 		if (config.getProperty("Browser").equalsIgnoreCase("firefox")) {
 			System.setProperty("webdriver.gecko.driver",
 					"C:\\Users\\admin\\workspace\\POCCucumber\\Drivers\\geckodriver.exe");
@@ -39,7 +44,11 @@ public class TestBase {
 
 	public void closeBrowser() {
 		driver.close();
-		driver = null;
+		try
+		{
+		//driver = null;
+		}
+		catch(Exception e){}
 
 	}
 

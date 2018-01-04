@@ -29,20 +29,13 @@ public class LoginStepDefination extends TestBase {
 
 	LoginPage lpobj;
 	FlightFinderPage fpobj;
-	Logger log;
-
-	@Before
-	public void startscenario(Scenario sc) {
-		System.out.println(sc.getName());
-	}
+	 
 
 	@Given("^Open the URL of mercury tours\\.$")
 	public void open_the_URL_of_mercury_tours() throws Throwable {
-
-		log = Logger.getLogger(LoginStepDefination.class);
-		PropertyConfigurator.configure("log4j.properties");
-		initBrowser();
-		log.info("opening the mercury tour site");
+       
+	   	initBrowser();
+		logger.info("opening the mercury tour site");
 
 	}
 
@@ -53,7 +46,7 @@ public class LoginStepDefination extends TestBase {
 		lpobj = new LoginPage();
 		lpobj.setUserName(data.get(0).get("username"));
 		lpobj.setPassword(data.get(0).get("password"));
-		log.info("user name and password has entered");
+		logger.info("user name and password has entered");
 
 	}
 
@@ -62,7 +55,7 @@ public class LoginStepDefination extends TestBase {
 
 		lpobj.login();
 		driver.manage().timeouts().implicitlyWait(1000, TimeUnit.SECONDS);
-		log.info("clicked submit button");
+		logger.info("clicked submit button");
 	}
 
 	@SuppressWarnings("deprecation")
@@ -77,7 +70,7 @@ public class LoginStepDefination extends TestBase {
 			System.out.println("not present");
 		}
 
-		log.info("login successful or not checked");
+		logger.info("login successful or not checked");
 
 	}
 
@@ -86,31 +79,13 @@ public class LoginStepDefination extends TestBase {
 		// Write code here that turns the phrase above into concrete actions
 		
 	
-	   closeBrowser();
-		 log.info("closing the browser");
+	       closeBrowser();
+		logger.info("closing the browser");
 		 }
 	   
 		 
 		 
-		 @After
-		 public void afterscenario(Scenario sc)
-			{
-				
-			 File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-					 
-					   
-			
-			 try {
-			       String name=sc.getId();
-				 FileUtils.copyFile(scrFile, new File("C:\\Users\\admin\\workspace\\POCCucumber\\screenshots\\" +name+".png"));
-					} catch (IOException e) {
-						// TODO Auto-generated catch block
-						e.printStackTrace();
-					}
-			
-			 
-				
-			}	
+		
 	}
 
 

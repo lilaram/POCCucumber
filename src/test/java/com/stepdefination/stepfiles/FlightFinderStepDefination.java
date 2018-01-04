@@ -19,21 +19,21 @@ public class FlightFinderStepDefination extends TestBase {
 	@Given("^login to mercury tours site.$")
 	public void login()
 	{
-		 log=Logger.getLogger( LoginStepDefination.class);
-		    PropertyConfigurator.configure("log4j.properties");
+		// log=Logger.getLogger( LoginStepDefination.class);
+		  //  PropertyConfigurator.configure("log4j.properties");
 		initBrowser();
 		lpobj=new LoginPage();
 		lpobj.setUserName("batman");
 		lpobj.setPassword("batman");
 		lpobj.login();
-		log.info("login sucessull for flight find scenario");
+		//log.info("login sucessull for flight find scenario");
 		
 	}
 	
 	@When("^flight finder page displays$")
 	public void flight_finder_page_displays() throws Throwable {
 			
-		log.info("flight finder page is display");
+		//log.info("flight finder page is display");
 	}
 	
 		
