@@ -3,12 +3,13 @@ package com.lilauto.pages;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.Select;
 
 import com.lilauto.base.TestBase;
 
 public class RegisterPage extends TestBase {
 
-	@FindBy(xpath = ".//a[href='mercuryregister.php']")
+	@FindBy(xpath = ".//a[text()='REGISTER']")
 	WebElement registerlink;
 
 	@FindBy(name = "firstName")
@@ -35,8 +36,14 @@ public class RegisterPage extends TestBase {
 	@FindBy(name = "password")
 	WebElement password;
 
-	@FindBy(name = "confirmpassword")
+	@FindBy(name = "confirmPassword")
 	WebElement confirmpassword;
+	
+	@FindBy(xpath="//input[@name='register']")
+	WebElement submitbutton;
+	
+//	@FindBy(xpath="//table[4]/tr[3]/td/p[3]/a/font/b[contains(text(),'Note:')")
+//	WebElement usernametext;
 
 	public RegisterPage() {
 		PageFactory.initElements(driver, this);
@@ -68,19 +75,23 @@ public class RegisterPage extends TestBase {
 	}
 
 	public void setstate(String statename) {
-		city.sendKeys(statename);
+		state.sendKeys(statename);
 	}
 
 	public void setpostalcode(String postalcode1) {
 		postalcode.sendKeys(postalcode1);
 	}
 
-	public void setcountry(String countryname) {
-		country.sendKeys(countryname);
+	public void selectcountry(String countryname) {
+		
+		Select s=new Select(country);
+		 s.selectByVisibleText(countryname);
 	}
 
-	public void setusername(String username1) {
+	public String setusername(String username1) {
 		username.sendKeys(username1);
+		
+		return  username1;
 	}
 
 	public void setpassword(String password1) {
@@ -95,5 +106,12 @@ public class RegisterPage extends TestBase {
 
 		registerlink.click();
 	}
-
+	public void clicksubmit()
+	{
+		
+		submitbutton.click();
+	}
+	
+    
+	
 }

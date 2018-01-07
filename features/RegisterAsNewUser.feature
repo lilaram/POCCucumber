@@ -5,7 +5,8 @@ Feature: validate that new user is able to create acccount on mercury tours.
     When User click on the Register page
     Then Register page is display.
     And provide all the information as below to Register to mercury tours.
-      | FirstName | LastName | Phone | Email         | Address | City | State       | postal code | country | Username | password | Confirm password |
-      | testf     | testl    | 12345 | test@test.com | pune    | pune | maharashtra |      411055 | India   | testf123 | testf123 | testf123         |
+      | FirstName | LastName | Phone | Email         | Address | City | State       | PostalCode | Country | UserName | Password | ConfirmPassword |
+      | testf     | testl    | 12345 | test@test.com | pune    | pune | maharashtra |     411055 | INDIA   | testf123 | testf123 | testf123        |
     And Click on the submit button.
     Then Registration successful text with username is displayed.
+    And close the browser.

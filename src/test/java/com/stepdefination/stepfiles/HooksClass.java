@@ -20,6 +20,8 @@ public class HooksClass {
 	public void startscenario(Scenario sc)
 	{
 		System.out.println(sc.getName());
+		
+	
 	}
 	
 	
@@ -29,9 +31,9 @@ public class HooksClass {
 		
 		if(sc.isFailed())
 	{
-					 File scrFile = ((TakesScreenshot)TestBase.driver).getScreenshotAs(OutputType.FILE);
+		File scrFile = ((TakesScreenshot)TestBase.driver).getScreenshotAs(OutputType.FILE);
 		 		   
-			 try {
+	 try {
 			 String name=sc.getName();
 			FileUtils.copyFile(scrFile, new File("C:\\Users\\admin\\workspace\\POCCucumber\\screenshots\\" +name+".png"));
 		} catch (IOException e) {

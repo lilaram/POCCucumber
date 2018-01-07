@@ -23,8 +23,7 @@ import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
-import junit.framework.Assert;
-
+import org.junit.*;
 public class LoginStepDefination extends TestBase {
 
 	LoginPage lpobj;
@@ -64,13 +63,9 @@ public class LoginStepDefination extends TestBase {
 
 		FlightFinderPage fpobj = new FlightFinderPage();
 
-		if (fpobj.issignofflink()) {
-			System.out.println("present");
-		} else {
-			System.out.println("not present");
-		}
-
-		logger.info("login successful or not checked");
+		
+	 Assert.assertTrue("user sucessfully login to mercury tours", fpobj.issignofflink());
+	logger.info("login successful or not checked");
 
 	}
 

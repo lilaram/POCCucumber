@@ -11,20 +11,55 @@ public class SelectFlightPage extends TestBase {
 	
 	@FindBy(xpath=".//input[@name='reserveFlights']")
 	WebElement buttonreserve;
+	
+	@FindBy(xpath=".//input[@name='outFlight']")
+	WebElement selectflightdefault;
+	
+	@FindBy(xpath=".//input[@name='inFlight']")
+	WebElement returnflightdefault;
+	
+	@FindBy(xpath=".//input[@value='Pangea Airlines$362$274$9:17']")
+	WebElement sflights;
+	
 	public SelectFlightPage() {
 		PageFactory.initElements(driver, this);
 
 	}
 	
-	public BookFlight reserveflightbutton()
+	public void selectflight()
 	{
-	
-		 buttonreserve.click();
-		
-	
-	  return new BookFlight();
+		sflights.click();
+	}
+	public BookFlightPage reserveflightbutton()
+	{
+			 buttonreserve.click();
+		  return new BookFlightPage();
 	}
 	
+	public boolean selectFightDefault()
+	{
+		if(selectflightdefault.isDisplayed())
+		{
+			return true;
+		}
+		else
+		{
+		return false;
+		}
+		
+	}
 	
+	public boolean returnselectedFightDefault()
+	{
+		if(returnflightdefault.isDisplayed())
+		{
+			return true;
+		}
+		else
+		{
+		return false;
+		}
+		
+	}
 
 }

@@ -1,14 +1,234 @@
-2018-01-04 23:52:27,655 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
-2018-01-04 23:52:28,079 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
-2018-01-04 23:52:32,830 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
-2018-01-04 23:52:32,904 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
-2018-01-04 23:52:33,038 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
-2018-01-04 23:56:33,133 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
-2018-01-04 23:56:56,095 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
-2018-01-04 23:57:15,830 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
-2018-01-04 23:57:31,808 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
-2018-01-04 23:57:31,969 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
-2018-01-04 23:57:36,557 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
-2018-01-04 23:57:36,636 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
-2018-01-04 23:57:36,805 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
-2018-01-04 23:58:34,893 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-06 23:39:19,763 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-06 23:39:44,668 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-06 23:40:02,712 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-06 23:40:36,506 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-06 23:40:36,875 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-06 23:40:42,135 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-06 23:40:42,728 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-06 23:40:42,892 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-06 23:41:43,059 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-06 23:46:40,091 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-06 23:47:04,310 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-06 23:47:23,136 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-06 23:47:45,902 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-06 23:47:46,083 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-06 23:47:51,139 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-06 23:47:51,505 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-06 23:47:51,637 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 08:48:44,402 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 08:49:04,084 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 08:49:29,195 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 08:49:29,349 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 08:49:34,615 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 08:49:34,741 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 08:49:34,866 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 08:51:05,118 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 08:54:00,536 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 08:54:28,205 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 08:54:55,901 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 08:56:27,594 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 08:56:29,067 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 08:56:36,514 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 08:56:37,702 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 08:56:38,245 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 08:58:23,440 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 08:59:58,589 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 09:00:20,232 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 09:00:39,557 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 09:00:39,810 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 09:00:56,367 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 09:00:56,613 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 09:01:01,721 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 09:01:01,815 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 09:01:02,008 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 09:01:50,445 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 11:26:20,586 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 11:26:39,664 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 11:26:58,611 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 11:26:59,319 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 11:27:14,187 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 11:27:14,311 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 11:27:18,662 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 11:27:18,722 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 11:27:18,822 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 11:27:51,780 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 11:30:18,619 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 11:30:40,738 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 11:31:01,886 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 11:31:02,222 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 11:31:18,043 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 11:31:18,163 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 11:31:22,927 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 11:31:22,988 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 11:31:23,646 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 11:32:07,919 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 12:43:57,708 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 12:44:27,307 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 12:44:51,575 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 12:44:51,881 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 12:45:08,547 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 12:45:08,711 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 12:45:13,692 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 12:45:13,754 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 12:45:13,884 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 12:46:04,295 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 16:25:47,611 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 16:26:11,228 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 16:26:33,316 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 16:26:33,643 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 16:26:51,512 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 16:26:51,635 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 16:26:56,533 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 16:26:56,590 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 16:26:56,681 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 16:28:01,291 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 16:37:15,708 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 16:37:44,111 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 16:38:08,845 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 16:38:48,525 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 16:38:48,716 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 16:38:53,983 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 16:38:54,132 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 16:38:54,413 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 16:39:10,728 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 16:39:36,892 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 16:43:45,923 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 16:44:17,644 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 16:44:43,325 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 16:44:44,455 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 16:45:04,018 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 16:45:04,169 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 16:45:09,430 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 16:45:09,506 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 16:45:09,639 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 16:45:31,405 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 16:45:58,946 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 17:55:29,388 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 17:55:50,962 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 17:56:10,027 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 17:56:10,749 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 17:56:25,072 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 17:56:25,224 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 17:56:30,330 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 17:56:30,397 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 17:56:30,508 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 17:57:13,283 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:01:01,079 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:01:26,182 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:01:48,233 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 18:01:48,524 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:02:02,287 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 18:02:02,449 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 18:02:06,998 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 18:02:07,060 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 18:02:07,190 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:02:52,546 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:06:56,761 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:07:20,696 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:07:38,958 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 18:07:39,252 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:07:51,840 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 18:07:52,007 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 18:07:56,326 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 18:07:56,386 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 18:07:56,529 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:08:33,941 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:13:58,755 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:14:18,117 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:14:36,730 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 18:14:37,079 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:14:53,413 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 18:14:53,553 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 18:14:58,887 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 18:14:58,942 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 18:14:59,086 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:15:51,022 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:18:37,002 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:18:58,681 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:19:17,815 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 18:19:18,126 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:19:33,892 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 18:19:34,030 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 18:19:38,745 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 18:19:38,813 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 18:19:38,926 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:19:55,417 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:20:15,017 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:27:47,034 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:28:12,289 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:28:36,356 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 18:28:36,667 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:28:55,203 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 18:28:55,326 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 18:29:00,291 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 18:29:00,349 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 18:29:00,442 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 18:30:15,448 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 19:26:23,667 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 19:27:18,278 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 19:27:41,903 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 19:27:43,156 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 19:27:59,430 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 19:27:59,555 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 19:28:05,325 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 19:28:05,389 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 19:28:05,499 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 19:28:24,790 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 19:28:58,647 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:16:25,664 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:17:17,121 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:17:39,722 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 23:17:40,022 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:17:55,679 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 23:17:55,822 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 23:18:00,404 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 23:18:00,466 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 23:18:00,558 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:18:23,625 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:18:45,983 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:22:32,535 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:23:27,938 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:23:45,736 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 23:23:46,060 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:24:02,059 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 23:24:02,208 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 23:24:07,176 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 23:24:07,233 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 23:24:07,357 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:24:28,662 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:24:52,937 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:29:05,490 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:29:52,845 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:30:18,170 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 23:30:18,526 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:30:35,032 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 23:30:35,153 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 23:30:40,416 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 23:30:40,491 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 23:30:40,801 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:31:01,468 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:31:24,175 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:34:48,006 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:35:48,841 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:36:18,821 - com.stepdefination.stepfiles.LoginStepDefination -INFO - flight finder page is display
+2018-01-07 23:36:19,530 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:36:38,160 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 23:36:38,330 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 23:36:43,622 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 23:36:43,683 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 23:36:43,829 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:37:15,293 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:37:38,998 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:41:59,479 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:43:19,330 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:44:20,034 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:48:23,153 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:48:46,899 - com.stepdefination.stepfiles.LoginStepDefination -INFO - opening the mercury tour site
+2018-01-07 23:48:47,166 - com.stepdefination.stepfiles.LoginStepDefination -INFO - user name and password has entered
+2018-01-07 23:48:51,338 - com.stepdefination.stepfiles.LoginStepDefination -INFO - clicked submit button
+2018-01-07 23:48:51,447 - com.stepdefination.stepfiles.LoginStepDefination -INFO - login successful or not checked
+2018-01-07 23:48:51,649 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:49:16,102 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:50:06,183 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-07 23:50:29,932 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
+2018-01-08 00:09:01,276 - com.stepdefination.stepfiles.LoginStepDefination -INFO - closing the browser
